@@ -1,3 +1,3 @@
 # sprite-animation
-Tutorial - Vanilla Javascript Sprite Animation
----
+
+Tutorial - Learning Vanilla Javascript Sprite Animation
